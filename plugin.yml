@@ -1,0 +1,6 @@
+name: InstantVoidKill
+main: xyz.zeeraa.instantvoidkill.InstantVoidKill
+description: Kills players below a certain y level
+author: Zeeraa
+website: www.zeeraa.xyz
+version: 1.0
